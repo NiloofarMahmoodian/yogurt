@@ -1,2 +1,1 @@
-# Adare-Restaurant
 # yogurt
