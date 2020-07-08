@@ -7,4 +7,18 @@ body {
 
 h1 {
     font-family: 'Abril Fatface', cursive;
+
+}
+
+
+
+.jumbotron {
+    background-color: #00f48e00;
+}
+
+
+.lead {
+    color: #fff;
+    font-size: 2.2rem;
+
 }
