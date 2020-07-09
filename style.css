@@ -22,3 +22,14 @@ h1 {
     font-size: 2.2rem;
 
 }
+
+
+.btn-outline-color {
+    border-color: #fff;
+
+}
+
+
+.btn-outline-color:hover {
+    background-color: rgba(255, 255, 255, 0.336);
+}
